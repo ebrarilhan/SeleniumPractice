@@ -1,4 +1,4 @@
-package class_practice.erol_hoca;
+package class_practice.erol_hoca.day02_practice;
 
 
 import org.junit.Assert;

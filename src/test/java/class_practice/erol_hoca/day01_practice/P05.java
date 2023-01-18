@@ -1,4 +1,4 @@
-package class_practice.erol_hoca;
+package class_practice.erol_hoca.day01_practice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;

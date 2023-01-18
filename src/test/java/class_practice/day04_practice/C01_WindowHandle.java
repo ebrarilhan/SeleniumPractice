@@ -1,8 +1,13 @@
 package class_practice.day04_practice;
 
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WindowType;
 import utilities.TestBase;
 
-public class C02_WindowHandle extends TestBase {
+public class C01_WindowHandle extends TestBase {
 
     // 1- https://www.amazon.com sayfasına gidin
     // 2- nutella icin arama yapın
